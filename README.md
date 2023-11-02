@@ -1,5 +1,5 @@
 # Generative Adversarial Networks (GAN) for Synthetic Image Generation
-This repository contains a Generative Adversarial Network (GAN) implemented in Python using PyTorch. The GAN is capable of generating synthetic images for any given dataset. The architecture consists of a discriminator model responsible for distinguishing between real and fake images, and a generator model tasked with generating realistic-looking synthetic images.
+This repository contains a Generative Adversarial Network (GAN) implemented in TensorFlow using PyTorch. The GAN is capable of generating synthetic images for any given dataset. The architecture consists of a discriminator model responsible for distinguishing between real and fake images, and a generator model tasked with generating realistic-looking synthetic images.
 
 ## Training
 You can use your own dataset for training the GAN. Ensure the dataset is preprocessed, and images are converted into tensors and normalized.
